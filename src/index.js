@@ -2,10 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Navbar from "./componets/navbar"
+import SearchBar from "./componets/searchbar"
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Navbar />
+    <SearchBar />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
