@@ -1,0 +1,362 @@
+[
+    {   
+        "id":0,
+        "name": {
+            "first":"Delores",
+            "last":"West"
+        },
+        "email": "delores.west@example.com",
+        "dob": {
+            "date": "1965-03-22T13:56:30.914Z",
+            "age": 55
+        },
+        "phone": "(236)-169-2362",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/54.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+        }
+    },
+    {
+        "id":1,
+        "name": {
+            "first":"Kitty",
+            "last":"Sanders"
+        },
+        "email": "kitty.sanders@example.com",
+        "dob": {
+            "date": "1968-01-25T10:57:53.365Z",
+            "age": 52
+        },
+        "phone": "(040)-037-4406",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/15.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+        }
+    },
+    {
+        "id":2,
+        "name": {
+            "first":"Leah",
+            "last":"Davidson"
+        },
+        "email": "leah.davidson@example.com",
+        "dob": {
+            "date": "1970-04-01T06:12:43.308Z",
+            "age": 50
+        },
+        "phone": "(563)-730-6239",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/4.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+        }
+    },
+    {
+        "id":3,
+        "name": {
+            "first":"Gregory",
+            "last":"Richardson"
+        },
+        "email": "gregory.richardson@example.com",
+        "dob": {
+            "date": "1946-05-16T08:07:31.184Z",
+            "age": 74
+        },
+        "phone": "(404)-726-6803",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/43.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+        }
+    },
+    {
+        "id":4,
+        "name": {
+            "first":"Javier",
+            "last":"Davidson"
+        },
+        "email": "javier.davidson@example.com",
+        "dob": {
+            "date": "1998-05-09T22:55:38.309Z",
+            "age": 22
+        },
+        "phone": "(327)-466-0286",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/72.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+        }
+    },
+    {
+        "id":5,
+        "name": {
+            "first":"Warren",
+            "last":"Diaz"
+        },
+        "email": "warren.diaz@example.com",
+        "dob": {
+            "date": "1990-10-11T16:03:19.688Z",
+            "age": 30
+        },
+        "phone": "(362)-777-3627",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/27.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+        }
+    },
+    {
+        "id":6,
+        "name": {
+            "first":"Irene",
+            "last":"Harvey"
+        },
+        "email": "irene.harvey@example.com",
+        "dob": {
+            "date": "1991-12-18T08:35:18.672Z",
+            "age": 29
+        },
+        "phone": "(574)-285-7505",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/58.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+        }
+    },
+    {
+        "id":7,
+        "name": {
+            "first":"Toni",
+            "last":"King"
+        },
+        "email": "toni.king@example.com",
+        "dob": {
+            "date": "1998-09-24T23:41:19.180Z",
+            "age": 22
+        },
+        "phone": "(015)-329-6161",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/75.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+        }
+    },
+    {
+        "id":8,
+        "name": {
+            "first":"Gabe",
+            "last":"Peters"
+        },
+        "email": "gabe.peters@example.com",
+        "dob": {
+            "date": "1957-12-29T22:05:11.866Z",
+            "age": 63
+        },
+        "phone": "(734)-243-1850",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/83.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+        }
+    },
+    {
+        "id":9,
+        "name": {
+            "first":"Rhonda",
+            "last":"Chapman"
+        },
+        "email": "rhonda.chapman@example.com",
+        "dob": {
+            "date": "1985-05-28T23:21:33.384Z",
+            "age": 35
+        },
+        "phone": "(362)-543-7768",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/28.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+        }
+    },
+    {
+        "id":10,
+        "name": {
+            "first":"Terri",
+            "last":"Jenkins"
+        },
+        "email": "terri.jenkins@example.com",
+        "dob": {
+            "date": "1995-07-09T16:18:14.167Z",
+            "age": 25
+        },
+        "phone": "(585)-544-0035",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/7.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+        }
+    },
+    {
+        "id":11,
+        "name": {
+            "first":"Cecil",
+            "last":"Holt"
+        },
+        "email": "cecil.holt@example.com",
+        "dob": {
+            "date": "1981-08-17T20:18:20.493Z",
+            "age": 39
+        },
+        "phone": "(393)-662-5295",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/80.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+        }
+    },
+    {
+        "id":12,
+        "name": {
+            "first":"Shelley",
+            "last":"Turner"
+        },
+        "email": "shelly.turner@example.com",
+        "dob": {
+            "date": "1990-12-01T20:17:52.341Z",
+            "age": 30
+        },
+        "phone": "(617)-075-2851",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/47.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+        }
+    },
+    {
+        "id":13,
+        "name": {
+            "first":"Angel",
+            "last":"Fields"
+        },
+        "email": "angel.fields@example.com",
+        "dob": {
+            "date": "1972-07-19T20:42:09.283Z",
+            "age": 48
+        },
+        "phone": "(623)-418-4047",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/92.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+        }
+    },
+    {
+        "id":14,
+        "name": {
+            "first":"Ernest",
+            "last":"Hull"
+        },
+        "email": "ernest.hill@example.com",
+        "dob": {
+            "date": "1975-02-21T05:04:00.518Z",
+            "age": 45
+        },
+        "phone": "(285)-830-1451",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/80.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+        }
+    },
+    {
+        "id":15,
+        "name": {
+            "first":"Kitty",
+            "last":"Jackson"
+        },
+        "email": "kitty.jackson@example.com",
+        "dob": {
+            "date": "1976-03-27T03:41:05.281Z",
+            "age": 44
+        },
+        "phone": "(151)-266-6173",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/80.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+        }
+    },
+    {
+        "id":16,
+        "name": {
+            "first":"Gerald",
+            "last":"Cruz"
+        },
+        "email": "gerald.cruz@example.com",
+        "dob": {
+            "date": "1949-02-20T01:05:31.376Z",
+            "age": 71
+        },
+        "phone": "(467)-080-4438",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/23.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+        }
+    },
+    {
+        "id":17,
+        "name": {
+            "first":"Shelley",
+            "last":"Burke"
+        },
+        "email": "shelly.burke@example.com",
+        "dob": {
+            "date": "1946-10-15T23:11:52.415Z",
+            "age": 74
+        },
+        "phone": "(302)-744-4005",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/25.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+        }
+    },
+    {
+        "id":18,
+        "name": {
+            "first":"Derek",
+            "last":"Carpenter"
+        },
+        "email": "derek.carpenter@example.com",
+        "dob": {
+            "date": "1987-02-02T13:06:42.819Z",
+            "age": 33
+        },
+        "phone": "(739)-738-3177",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/45.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+        }
+    },
+    {
+        "id":20,
+        "name": {
+            "first":"Zachary",
+            "last":"Hernandez"
+        },
+        "email": "zachary.hernandez@example.com",
+        "dob": {
+            "date": "1950-01-16T17:42:42.760Z",
+            "age": 70
+        },
+        "phone": "(745)-140-2991",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/94.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+        }
+    }
+]

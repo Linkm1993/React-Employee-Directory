@@ -1,6 +1,6 @@
 import React from "react";
 // import './App.css';
-import DirectoryContainer from "../src/components/DirectoryContainer"
+import DirectoryContainer from "../src/components/DirectoryContainer/index"
 
 function App() {
   return <DirectoryContainer />;
