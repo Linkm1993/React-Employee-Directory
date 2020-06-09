@@ -123,8 +123,6 @@ class DirectoryContainer extends Component {
                       lastName={employee.name.last}
                       email={employee.email}
                       dob={employee.dob.date}
-                      phone={employee.phone}
-                      picture={employee.picture.large}
                     />
                     ))}
                 </Col>
