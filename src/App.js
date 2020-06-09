@@ -1,17 +1,9 @@
-import React from 'react';
-import './App.css';
-import Navbar from "./componets/navbar"
-import SearchBar from "./componets/searchbar"
-import Container from "./componets/container"
+import React from "react";
+// import './App.css';
+import DirectoryContainer from "../src/components/DirectoryContainer"
 
 function App() {
-  return (
-    <div>
-      <Navbar />
-      <SearchBar />
-      <Container />
-    </div>
-  );
+  return <DirectoryContainer />;
 }
 
 export default App;

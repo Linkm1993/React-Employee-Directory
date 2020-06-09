@@ -6,7 +6,7 @@ import CardItem from "../CardItem"
 import Navbar from "../Navbar/";
 import Row from "../Row/";
 import SearchBar from "../SearchBar/"
-import employees from "../../employees.json"
+import employees from "../employeeData.json"
 import sorting from "../../util/sorting"
 
 class DirectoryContainer extends Component {
