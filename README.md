@@ -29,5 +29,5 @@
 
 ### Questions
 >[![](https://img.shields.io/badge/github-Linkm1993-blue?)](https://www.github.com/Linkm1993)
->[![](https://img.shields.io/badge/Email-46576277+Linkm1993@users.noreply.github.com-blue?)](mailto:46576277+Linkm1993@users.noreply.github.com)
+>[![](https://img.shields.io/badge/Email-46576277+Linkm1993@users.noreply.github.com-blue?)](mailto:Linkm1993@gmail.com)
 ![](https://avatars.githubusercontent.com/u/46576277?)
